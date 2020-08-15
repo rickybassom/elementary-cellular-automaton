@@ -17,4 +17,4 @@ Elementary Cellular Automaton pattern generator
 ## Rule 73
 ![](images/73.png "Rule 73")
 
-[See more](https://github.com/rickybas/elementary-cellular-automaton/tree/master/images)
+[See more](https://github.com/rickybassom/elementary-cellular-automaton/tree/master/images)
